@@ -41,3 +41,12 @@
 10 1 * * *
 
 也就是每天凌晨 1:10 跑。
+### 环境变量
+必须：
+`WXREAD_CURL_BASH=你复制的完整curl bash`
+`READ_NUM=40`
+可选：
+PUSH_METHOD=wxpusher
+WXPUSHER_SPT=你的WxPusher token
+PUSH_METHOD=pushplus
+PUSHPLUS_TOKEN=你的pushplus token
