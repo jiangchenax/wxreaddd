@@ -1,4 +1,4 @@
-新建安装任务
+###新建安装任务
 
 呆呆面板 → 定时任务 → 新建任务
 
@@ -8,7 +8,7 @@
 
 命令：
 
-node install_wxread.js
+`node install_wxread.js`
 
 定时规则随便填一个：
 
@@ -23,7 +23,8 @@ node install_wxread.js
 运行命令：node wxread_run.js
 
 安装任务只需要跑一次。成功后可以禁用。
-运行微信读书任务
+
+###**运行微信读书任务**
 
 新建定时任务：
 
